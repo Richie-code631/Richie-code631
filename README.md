@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Richie-code631
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Richie 👋
 
-<!---
-Richie-code631/Richie-code631 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science student building toward a career in data engineering.
+
+## What I'm working on
+- Practicing SQL on a retail dataset (filtering, NULL handling, grouping and aggregation)
+- Building Python projects and strengthening my fundamentals
+- Next: moving from SQL and Python toward data pipelines and cloud tools
+
+## Skills
+- **Languages:** Python, SQL
+- **Tools:** Git, GitHub
+
+## Projects
+- [sql-foundations-portfolio](https://github.com/Richie-code631/sql-foundations-portfolio) – 10 SQL queries on a retail database, with written interpretations of the results
+
+## How to reach me
+- [LinkedIn](https://www.linkedin.com/in/richmond-assafuah-1833a3208/)
+
+
